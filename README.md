@@ -83,8 +83,11 @@ Frontend runs at 👉 `http://localhost:3000`
   }
 ]
 `````
-### Running Locally
-Start MongoDB locally (or connect to MongoDB Atlas).
-Run backend → `npm run dev` (port 4000).
-Run frontend → `npm run dev` (port 3000).
-Visit 👉 `http://localhost:3000` to use the app.
+---
+## Running Locally
+
+1. Start **MongoDB** locally (or connect to MongoDB Atlas).
+2. **Run the backend**: `npm run dev` (port 4000).
+3. **Run the frontend**: `npm run dev` (port 3000).
+4. **Visit** 👉 `http://localhost:3000` to use the app.
+

@@ -5,7 +5,7 @@ A simple **Lead Management Application** built with:
 - **Frontend** → Next.js + Tailwind CSS  
 - **Database** → MongoDB  
 
-This project was built as part of a take-home assignment to demonstrate working with **Next.js, Node.js, APIs, and databases**.
+This project was built as part of an assignment to demonstrate working with **Next.js, Node.js, APIs, and databases**.
 
 ---
 
